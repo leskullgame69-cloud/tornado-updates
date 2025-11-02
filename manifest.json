@@ -1,0 +1,7 @@
+{
+  "version": "2025.11.02.0706",
+  "signatures_url": "https://your-host.example.com/tornado/signatures.json",
+  "signatures_sha256": "63ec50325a335a78e44502f766b4ac74e9c0c98f180e7e452340ac206dc20813",
+  "timestamp": 1762063609,
+  "signature": "AAv0kVAXloAiSqJgLYbgJ0FXxE0yymoCeZJh52KmI3rzbnuy9B82caXV7vR59YK2M65uWXz7jrGfyQrqcqOnTMCU5tTHoKnS75zp+RxZyFtp26u3mHrRr0L+ZEAGjIcvVj3+jOoNYt/fLppLbeyJCXYQzDX/quQmpxwB+1DMM5Ql0yIZlcMAy7ayhozzrxoDB0RfUcjuViUGt8OhNJLKWLm5t+elaSEmrSmI9HpsdHxMF3w4FNdvfI+wK6MRrh5+BuqNl2RWV2oQ1ATlLk75oxxqbWunScjiJCwDGoNn8Y0B3DplSosvVFI4B1EeO/1Nne8MaKTMVQkdGuo4vHq2ww=="
+}
